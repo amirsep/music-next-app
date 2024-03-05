@@ -4,7 +4,7 @@ import React from "react";
 function page() {
   return (
     <>
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-gray-800 to-lemon-900">
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-gray-900 to-lemon-900">
         <Spotlight
           className="-top-40 left-0 md:left-60 md:-top-20"
           fill="white"
