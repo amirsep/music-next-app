@@ -36,14 +36,6 @@ function Footer() {
                 Courses
               </a>
             </li>
-            <li>
-              <a
-                href="#"
-                className="hover:text-white transition-colors duration-300"
-              >
-                Contact
-              </a>
-            </li>
           </ul>
         </div>
         <div>
