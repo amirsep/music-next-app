@@ -50,7 +50,7 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="https://twitter.com/amir_sep19"
+              href="https://twitter.com/amirvmohd"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
