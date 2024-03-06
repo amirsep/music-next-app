@@ -51,18 +51,21 @@ function Footer() {
           <div className="flex space-x-4">
             <a
               href="https://www.linkedin.com/in/amirsep/"
+              target="_blank"
               className="hover:text-white transition-colors duration-300"
             >
               Linkedin
             </a>
             <a
               href="https://github.com/amirsep"
+              target="_blank"
               className="hover:text-white transition-colors duration-300"
             >
               Github
             </a>
             <a
               href="https://twitter.com/amirvmohd"
+              target="_blank"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
