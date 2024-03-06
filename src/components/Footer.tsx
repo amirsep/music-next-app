@@ -50,23 +50,28 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
+              href="https://www.linkedin.com/in/amirsep/"
+              className="hover:text-white transition-colors duration-300"
+            >
+              Linkedin
+            </a>
+            <a
+              href="https://github.com/amirsep"
+              className="hover:text-white transition-colors duration-300"
+            >
+              Github
+            </a>
+            <a
               href="https://twitter.com/amirvmohd"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
-            <a
-              href="https://www.instagram.com/amirvmohd"
-              className="hover:text-white transition-colors duration-300"
-            >
-              Instagram
-            </a>
           </div>
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>New Delhi, India</p>
-          <p>Delhi 110025</p>
+          <p>Delhi - 110025</p>
           <p>Email: amir.sep19@gmail.com</p>
           <p>Phone: +91-9795****01</p>
         </div>
